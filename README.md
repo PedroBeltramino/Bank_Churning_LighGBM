@@ -1,1 +1,1 @@
-# Bank_Churning_LighGBM
+# Bank_Churning_LightGBM
